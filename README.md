@@ -14,5 +14,9 @@ This project deals with creating a Block memory in vivado, creation of .coe file
 
 6. Using the Testbench file that is attached here you can generate the simulation.
 
-For any additional doubt, contact : Prathammane18@gmail.com
+7. Result of simulation (just for reference)
+![image](https://github.com/user-attachments/assets/83a92085-9ad8-41a3-8879-cd6aabe5fd26)
+
+
+For any additional doubts, contact : Prathammane18@gmail.com
 
