@@ -20,6 +20,9 @@ This project deals with creating a Block memory in vivado, creation of .coe file
    
 ![image](https://github.com/user-attachments/assets/83a92085-9ad8-41a3-8879-cd6aabe5fd26)
 
+![Screenshot 2025-02-27 114153](https://github.com/user-attachments/assets/5a2f22a5-c0b9-4d72-b4d5-6b24802f5000)
+
+
 
 For any additional doubts, contact : Prathammane18@gmail.com
 
